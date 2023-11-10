@@ -4,4 +4,4 @@ I'm a software engineer building across the full stack. I especially enjoy bring
 
 ## Find me around the web 🕸️
 - At my <a href="https://mallory-leewong.webflow.io/">website</a> 💻
-- On <a href="https://www.linkedin.com/in/malloryleewong//">LinkedIn</a> 🌎
+- On <a href="https://www.linkedin.com/in/malloryleewong//">LinkedIn</a> 🌊
